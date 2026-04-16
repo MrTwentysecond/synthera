@@ -1,2 +1,0 @@
-# synthera
-frontend  and backend
